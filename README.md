@@ -105,29 +105,6 @@ I'm **Omar Mokhtar Mohamed**, a passionate **Back-End Developer** specialized in
 
 ---
 
-# 💼 Experience
-
-## 🏢 AL-Salam ASC.
-### Back-End Developer | Full-Time
-
-- Developed scalable backend systems using Laravel.
-- Built secure authentication and authorization systems.
-- Optimized database queries and backend performance.
-- Integrated backend services with React.js applications.
-- Worked with WordPress themes and plugins.
-
----
-
-## 🏢 Momentum Solutions Co.
-### Web Developer | Hybrid
-
-- Developed and maintained RESTful APIs using Laravel.
-- Built real-time features using WebSocket.
-- Improved backend architecture and application efficiency.
-- Collaborated with frontend teams to deliver seamless integrations.
-
----
-
 # 🏆 Achievements
 
 🏅 Graduation Project recognized in AI & Governance competitions.  

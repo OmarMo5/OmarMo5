@@ -128,59 +128,11 @@ I'm **Omar Mokhtar Mohamed**, a passionate **Back-End Developer** specialized in
 
 ---
 
-# 🚀 Featured Projects
-
-## 📦 Logistics Operations CMS
-- RESTful APIs for logistics and delivery management.
-- Real-time driver tracking using WebSocket.
-- Authentication with JWT & Laravel Sanctum.
-
-### Tech Stack
-`Laravel` `PHP` `MySQL` `React.js` `WebSocket`
-
----
-
-## 💬 Real-Time Chat App
-- Instant messaging system using WebSocket.
-- File sharing, emojis, markdown support, and audio messages.
-- Optimized real-time communication performance.
-
-### Tech Stack
-`Laravel` `React.js` `MySQL` `WebSocket`
-
----
-
-## 🎟️ AOLC Management System
-- Event and session management platform.
-- Real-time analytics dashboard.
-- Role-based authentication and authorization system.
-
-### Tech Stack
-`Laravel` `React.js` `REST APIs`
-
----
-
 # 🏆 Achievements
 
 🏅 Graduation Project recognized in AI & Governance competitions.  
 🏅 Strong experience building production-ready systems and scalable APIs.  
 🏅 Experience working in collaborative teams and real business environments.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarMo5&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarMo5&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMo5&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
